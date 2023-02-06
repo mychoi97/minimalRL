@@ -28,8 +28,9 @@ Implementations of basic RL algorithms with minimal lines of codes! (PyTorch bas
 
 
 ## Dependencies
-1. PyTorch
-2. OpenAI GYM
+1. PyTorch == 1.12.1
+2. OpenAI GYM == 0.25.2
+3. Numpy == 1.23.2
 
 ## Usage
 ```bash
